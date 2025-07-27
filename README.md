@@ -15,5 +15,3 @@ This project implements image compression using the Discrete Wavelet Transform (
 - MATLAB (tested with R2021a and above)
 - Wavelet Toolbox
 
-## 📁 Project Structure
-
